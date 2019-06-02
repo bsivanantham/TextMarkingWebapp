@@ -1,13 +1,13 @@
-# Watch-Me-Build-an-Education-Startup
+# Education-Startup
 This is the code for "Watch Me Build an Education Startup" by Siraj Raval on Youtube
 
 ## Overview 
 
-This is the code for [this](https://www.youtube.com/watch?v=7d1smRd-8aI) video on Youtube by Siraj Raval. It's the code for EssayBrain, a tool for teacher that automatically grades and validates essays. In order to validate essays, it uses the copyleaks API to check for plagiarism. It also uses a modified version of GPT-2 to detect the likelihood that the text was real or fake. Then it outputs a validation score using these 2 scores. In order to grade the essay, it uses a neural network model trained on the automatic essay grading dataset on Kaggle found here https://www.kaggle.com/c/asap-aes/data .Take this code and go build a profitable startup with it.
+It's the code for EssayBrain, a tool for teacher that automatically grades and validates essays. In order to validate essays, it uses the copyleaks API to check for plagiarism. It also uses a modified version of GPT-2 to detect the likelihood that the text was real or fake. Then it outputs a validation score using these 2 scores. In order to grade the essay, it uses a neural network model trained on the automatic essay grading dataset on Kaggle found here https://www.kaggle.com/c/asap-aes/data .Take this code and go build a profitable startup with it.
 
 ## Credits
 
-Credits for the base repository go to [this](https://github.com/HendrikStrobelt/detecting-fake-text/) academic team. Credits for the other tools go to Google, Stripe, and OpenAI. I will also take ths opportunity to give thanks to all humans who perform selfless acts for others, in big ways and small. Thank you, please keep doing that.  
+Credits for the base repository go to [this](https://github.com/HendrikStrobelt/detecting-fake-text/) academic team. Credits for the other tools go to Google, Stripe, and OpenAI.  
 
 ## Call for Pull Requests
 
